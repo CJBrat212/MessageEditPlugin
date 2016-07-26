@@ -42,7 +42,7 @@ testPlugin.prototype.getDescription = function () {
 };
 
 testPlugin.prototype.getVersion = function () {
-    return "0.0.0";
+    return "0.0.1";
 };
 
 testPlugin.prototype.getAuthor = function () {
